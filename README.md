@@ -24,7 +24,7 @@ Activity                                                                        
 Complete Step 1 and Step 1 part of the report (At least 1 commit from each team member):               | by the end of class on November 9th, 2022
 Project Work Time - make significant progress toward Step 2 (At least 1 commit from each team member): | by the end of the lab on November 9th, 2022
 Project Work Time - finish the project and the report (At least 1 commit from each team member):       | November 10-17, outside of class and lab
-Demo and Final Submission:                                                                             | November 17th, 2022 at 9:30am
+Demo and Final  Submission:                                                                             | November 17th, 2022 at 9:30am
 
 ## Class Community Guidelines
 
